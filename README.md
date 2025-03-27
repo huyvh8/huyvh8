@@ -1,58 +1,73 @@
-<h1 align="center">Xin chào 👋, tôi là Khắc Huy Trần</h1>
-<h3 align="center">Kỹ sư DevOps & Đam mê AWS từ Việt Nam 🇻🇳</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=🚀+DevOps+Engineer+|+AWS+Solution+Architect;💻+Cloud+|+Kubernetes+|+Security+|+CI/CD;🚀+Automating+and+Scaling+Infrastructure" alt="Typing SVG">
+</p>
+
+<h1 align="center">Hi 👋, I'm Khắc Huy Trần</h1>
+<h3 align="center">AWS Solution Architect | DevOps Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khacHuyDev&label=Số lượt xem hồ sơ&color=blue&style=flat" alt="Số lượt xem hồ sơ" />
+  <a href="https://www.linkedin.com/in/kh%E1%BA%AFc-huy-tr%E1%BA%A7n-07527a316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="30" />
+  </a>
+  <a href="mailto:trankhchuy007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://www.facebook.com/huy.tran.727689/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" height="30" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Về tôi:
-- 🎯 Kỹ sư DevOps với đam mê về **AWS và Điện toán đám mây**.
-- 🌱 Hiện đang nghiên cứu về **các thực hành DevOps nâng cao và công nghệ đám mây**.
-- 🎯 Mục tiêu: Trở thành **Kỹ sư DevOps hàng đầu tại Việt Nam**.
-- 📚 Khám phá các công nghệ như **Mạng, Bảo mật, Kubernetes, Terraform, CI/CD và các giải pháp Cloud-native**.
-- ⚡ Thích viết script bằng **Bash, Python và Go**.
+## 🚀 **About Me**
+- 🏆 **Final-year student passionate about Cloud & DevOps.**
+- 🎯 **Goal**: Become a top **AWS Solution Architect in Vietnam**.
+- 🌱 Currently **mastering AWS, Kubernetes, Terraform, and CI/CD**.
+- 🔥 **Expertise**: Infrastructure Automation, Security, Cloud-native DevOps.
+- 💡 Always learning and **staying ahead in Cloud & DevSecOps**.
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ:
-#### **📌 DevOps & Đám mây:**
-- **Đám mây & Ảo hóa**: AWS (EC2, S3, RDS, VPC, IAM), Docker, Kubernetes, Terraform, Ansible
-- **CI/CD & Tự động hóa**: GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD
-- **Bảo mật & Mạng**: Shift Left Security, Snyk, Trivy, JFrog Artifactory
-- **Giám sát & Ghi log**: Prometheus, Grafana, ELK Stack
+## 🛠️ **Tech Stack & Skills**
 
-#### **📌 Lập trình & Viết script:**
-- **Ngôn ngữ**: Bash, Python, Go, Java, C++
-- **Hạ tầng dưới dạng mã (IaC)**: Terraform, Ansible
-- **Kiểm thử xâm nhập & Bảo mật**: Arachni (DAST), OWASP ZAP
+### ☁ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔨 **CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🔐 **Security & Monitoring**
+![Snyk](https://img.shields.io/badge/Snyk-4A154B?style=for-the-badge&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-0095D5?style=for-the-badge&logo=trivy&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-### 📂 Dự án nổi bật:
-- **[Hệ thống Triển khai CI/CD Tự động](https://github.com/khacHuyDev/auto-ci-cd)**: Tự động hóa quy trình triển khai phần mềm sử dụng Jenkins và Kubernetes.
-- **[Giám sát Hạ tầng với Prometheus](https://github.com/khacHuyDev/prometheus-monitoring)**: Thiết lập hệ thống giám sát hạ tầng sử dụng Prometheus và Grafana.
-- **[Triển khai Ứng dụng Microservices trên AWS](https://github.com/khacHuyDev/aws-microservices)**: Hướng dẫn triển khai ứng dụng microservices sử dụng ECS và RDS trên AWS.
-
----
-
-### 📊 Thống kê GitHub:
+## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khacHuyDev&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khacHuyDev&layout=compact&langs_count=6&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huyTk&show_icons=true&theme=radical&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huyTk&layout=compact&langs_count=6&theme=radical&count_private=true" height="180px" />
 </div>
 
 ---
 
-### 🐍 Hoạt động GitHub:
-<div align="center">
-  <img src="https://github.com/khacHuyDev/khacHuyDev/blob/output/snake.svg" alt="Snake animation" />
-</div>
+## 🐍 **GitHub Contribution Snake**
+<p align="center">
+  <img src="https://github.com/huyTk/huyTk/blob/output/snake.svg" alt="Snake animation">
+</p>
 
 ---
 
-### 🌍 Kết nối với tôi:
+## 🌍 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/kh%E1%BA%AFc-huy-tr%E1%BA%A7n-07527a316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="30" />
