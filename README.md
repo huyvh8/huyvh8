@@ -1,5 +1,5 @@
-<h1 align="center">Xin chào 👋, Tôi là Khắc Huy Trần</h1>
-<h3 align="center">Kỹ sư DevOps & AWS Enthusiast từ Việt Nam 🇻🇳</h3>
+<h1 align="center">Xin chào 👋, tôi là Khắc Huy Trần</h1>
+<h3 align="center">Kỹ sư DevOps & Đam mê AWS từ Việt Nam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khacHuyDev&label=Số lượt xem hồ sơ&color=blue&style=flat" alt="Số lượt xem hồ sơ" />
@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 Về tôi:
-- 🎯 Kỹ sư DevOps với đam mê về **AWS và Điện toán Đám mây**.
-- 🌱 Hiện đang học **các thực hành DevOps nâng cao và công nghệ đám mây**.
+- 🎯 Kỹ sư DevOps với đam mê về **AWS và Điện toán đám mây**.
+- 🌱 Hiện đang nghiên cứu về **các thực hành DevOps nâng cao và công nghệ đám mây**.
 - 🎯 Mục tiêu: Trở thành **Kỹ sư DevOps hàng đầu tại Việt Nam**.
 - 📚 Khám phá các công nghệ như **Mạng, Bảo mật, Kubernetes, Terraform, CI/CD và các giải pháp Cloud-native**.
-- ⚡ Thích viết script với **Bash, Python và Go**.
+- ⚡ Thích viết script bằng **Bash, Python và Go**.
 
 ---
 
@@ -25,23 +25,15 @@
 
 #### **📌 Lập trình & Viết script:**
 - **Ngôn ngữ**: Bash, Python, Go, Java, C++
-- **Hạ tầng như Code (IaC)**: Terraform, Ansible
+- **Hạ tầng dưới dạng mã (IaC)**: Terraform, Ansible
 - **Kiểm thử xâm nhập & Bảo mật**: Arachni (DAST), OWASP ZAP
 
 ---
 
-### 🎓 Chứng chỉ:
-- **AWS Certified Solutions Architect – Associate**
-- **Certified Kubernetes Administrator (CKA)**
-- **HashiCorp Certified: Terraform Associate**
-- **Docker Certified Associate (DCA)**
-
----
-
 ### 📂 Dự án nổi bật:
-- **[Hệ thống triển khai CI/CD tự động](https://github.com/khacHuyDev/auto-ci-cd)**: Hệ thống tự động hóa quy trình triển khai phần mềm sử dụng Jenkins và Kubernetes.
-- **[Giám sát hạ tầng với Prometheus](https://github.com/khacHuyDev/prometheus-monitoring)**: Thiết lập hệ thống giám sát hạ tầng sử dụng Prometheus và Grafana.
-- **[Triển khai ứng dụng microservices trên AWS](https://github.com/khacHuyDev/aws-microservices)**: Hướng dẫn triển khai ứng dụng microservices sử dụng ECS và RDS trên AWS.
+- **[Hệ thống Triển khai CI/CD Tự động](https://github.com/khacHuyDev/auto-ci-cd)**: Tự động hóa quy trình triển khai phần mềm sử dụng Jenkins và Kubernetes.
+- **[Giám sát Hạ tầng với Prometheus](https://github.com/khacHuyDev/prometheus-monitoring)**: Thiết lập hệ thống giám sát hạ tầng sử dụng Prometheus và Grafana.
+- **[Triển khai Ứng dụng Microservices trên AWS](https://github.com/khacHuyDev/aws-microservices)**: Hướng dẫn triển khai ứng dụng microservices sử dụng ECS và RDS trên AWS.
 
 ---
 
@@ -53,7 +45,7 @@
 
 ---
 
-### 🐍 Hoạt động trên GitHub:
+### 🐍 Hoạt động GitHub:
 <div align="center">
   <img src="https://github.com/khacHuyDev/khacHuyDev/blob/output/snake.svg" alt="Snake animation" />
 </div>
@@ -72,6 +64,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" height="30" />
   </a>
 </p>
-
-
-
